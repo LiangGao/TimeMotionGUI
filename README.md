@@ -1,5 +1,5 @@
 # TimeMotionGUI
-GUI for Time Motion Workflow Data Analysis, to quantify changes in orthopaedic clinic workflow with the implementation of electronic medical record, for University of Arizona Medical Center - Tucson.
+GUI for Time Motion Workflow Data Analysis, to visualize changes in orthopaedic clinic workflow with the implementation of electronic medical record, for University of Arizona Medical Center - Tucson.
 
 history:
 
