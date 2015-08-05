@@ -29,7 +29,7 @@ The next figure shows how many sessions were record from different physicians:
 The physicians were numbered as 1-8, instead of their real names here.
 
 The following figure shows the time spent by physician #7 during the past 3 years:
-![Time* spent by physician 7 during the past 3 years](Plots/Physician/Physician_8_Year_All_3figs.png)
+![Time* spent by physician 7 during the past 3 years](Plots/Physician/Physician_7_Year_All_3figs.png)
 The three subplots are the average time the physician spent for each task, the total time* he spent for each task, and the average time he spent for one patient.
 
 (* the total time corresponds to only the time when the physician was followed by student volunteers, not the actually time spent by the physician.)
